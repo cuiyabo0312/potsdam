@@ -1,2 +1,0 @@
-# Potsdam
-The Potsdam dataset
